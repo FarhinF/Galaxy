@@ -6,3 +6,4 @@ mercury
 venus
 earth
 mars
+asteroid-belt
