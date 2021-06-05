@@ -3,3 +3,4 @@ milky way
 sun
 moon
 mercury
+venus
