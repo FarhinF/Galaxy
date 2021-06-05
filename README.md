@@ -1,2 +1,3 @@
 # Galaxy
 milky way
+sun
