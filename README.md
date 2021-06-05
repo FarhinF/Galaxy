@@ -2,3 +2,4 @@
 milky way
 sun
 moon
+mercury
