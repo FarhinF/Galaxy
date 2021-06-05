@@ -4,3 +4,4 @@ sun
 moon
 mercury
 venus
+earth
