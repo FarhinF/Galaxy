@@ -1,5 +1,5 @@
 # Galaxy
-milky way
+milky-way
 sun
 moon
 mercury
